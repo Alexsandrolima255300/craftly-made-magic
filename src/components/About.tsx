@@ -13,7 +13,7 @@ const About = () => {
         </p>
         <div className="pt-6">
           <a
-            href="https://wa.me/5534988834325?text=Olá,%20vim%20pelo%20site%20e%20quero%20falar%20sobre%20móveis%20planejados"
+            href="https://wa.me/553488834325?text=Olá,%20vim%20pelo%20site%20e%20quero%20falar%20sobre%20móveis%20planejados"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-primary text-primary-foreground font-body font-semibold text-lg transition-all duration-300 hover:shadow-[0_0_30px_hsl(var(--primary)/0.4)] hover:scale-105"
